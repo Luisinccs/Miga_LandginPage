@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #333333;
+    color: #fff;
+}
+header {
+    background-color: #df8f05;
+    color: #343480;
+}
+footer {
+    background-color: #df8f05;
+    color: #343480;
+   
+}
+.cta-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
